@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://visitcount.itsvg.in/api?id=urvitgehlot&icon=2&color=1)](https://visitcount.itsvg.in)
+
 <!--
 **urvitgehlot/urvitgehlot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
