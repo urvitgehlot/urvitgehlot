@@ -118,7 +118,7 @@ body {
     width: 100px;
     border-radius: 50%;
     background-color: #B37133;
-    position: relative;
+    position: fixed;
     top: 97%;
     left: 2%;
     transform: translate(0%, -100%);
@@ -146,8 +146,8 @@ body {
 .ug-follow-me {
     display: inline-block;
     position: relative;
-    top: 70%;
-    left: 70%;
+    top: 80%;
+    left: 55%;
     transform: translate(0%, -100%);
 }
 
@@ -178,20 +178,24 @@ body {
 .ug-background-box1 {
     height: 611px;
     width: 524px;
+    /* height: 56.574074%;
+    width: 27.291666%; */
     background-color:  #CAB9AA;
-    position: absolute;
+    position: fixed;
     margin-top: -100vh;
     transform: rotate(34.331deg);
     top: 115%;
-    left: 30%;
+    left: 35%;
     z-index: -10;
 }
 
 .ug-background-box2 {
     height: 611px;
     width: 524px;
+    /* height: 56.574074%;
+    width: 27.291666%; */
     background-color:  #B37133;
-    position: absolute;
+    position: fixed;
     margin-top: -100vh;
     transform: rotate(34.331deg);
     top: 155%;
@@ -203,8 +207,8 @@ body {
 
 
 
-/* .hi {
+.hi {
     background-color: aliceblue;
-    height: 500px;
-    width: 500px;
-} */
+    height: 100vh;
+    width: 10px;
+}
