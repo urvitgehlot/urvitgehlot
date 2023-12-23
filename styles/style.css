@@ -10,6 +10,7 @@
 html{
     font-size: 62.5%;
     /* font-weight: 200; */
+    /* scroll-behavior: smooth; */
 }
 
 body {
@@ -184,9 +185,10 @@ body {
     position: fixed;
     margin-top: -100vh;
     transform: rotate(34.331deg);
-    top: 115%;
-    left: 35%;
+    top: 114%;
+    left: 34%;
     z-index: -10;
+    /* transition: transform 0.1s ease-in-out; */
 }
 
 .ug-background-box2 {
