@@ -16,6 +16,14 @@ html{
 body {
     background-color: #2F2F2F !important;
     font-family: 'Poppins', sans-serif;
+    /* overflow: hidden; */
+}
+
+.section {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    /* overflow: ; */
 }
 
 
@@ -59,12 +67,14 @@ body {
 }
 
 .home-container {
-    height: calc(100vh - 5rem);
-    position: relative;
+    width: 100%;
+    /* height: calc(100vh - 5rem); */
+    height: 100%;
+    position: absolute;
 }
 
 .ug-home-image {
-    height: 95vh;
+    height: 100%;
     position: absolute;
     top: 100%;
     left: 50%;
@@ -184,7 +194,7 @@ body {
     background-color:  #CAB9AA;
     position: fixed;
     margin-top: -100vh;
-    transform: rotate(34.331deg);
+    transform: rotate(34deg);
     top: 114%;
     left: 34%;
     z-index: -10;
@@ -199,7 +209,7 @@ body {
     background-color:  #B37133;
     position: fixed;
     margin-top: -100vh;
-    transform: rotate(34.331deg);
+    transform: rotate(34deg);
     top: 155%;
     left: 55%;
     z-index: -10;
