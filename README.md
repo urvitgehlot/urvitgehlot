@@ -5,9 +5,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D1FF&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Urvit+Gehlot;Full+Stack+Developer;Flutter+App+Developer;Tech+Enthusiast" alt="Typing SVG" />
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&width=500&lines=Hi!+there%2C+I'm+Urvit+Gehlot;MERN+Stack+Developer;Tech+Enthusiast;Flutter+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </div>
 
 ---
