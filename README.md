@@ -102,7 +102,7 @@ I'm Urvit Gehlot, a Full Stack Developer and Flutter Developer from India. I foc
 <br>
 
 ## Education & Journey
-**Master of Computer Application (MCA)** — PES University *(Expected 2026)*  
+**Master of Computer Application (MCA)** — Chandigarh University *(Expected 2027)*  
 **Bachelor of Computer Application (BCA)** — Lachoo Memorial College *(2024)*  
 **Full Stack + Mobile Development** — Ongoing
 
