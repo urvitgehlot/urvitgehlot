@@ -1,74 +1,117 @@
-# Urvit Gehlot
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=urvitgehlot&label=Profile%20Views&color=0e76a8&style=flat-square" alt="urvitgehlot" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&center=true&width=500&lines=Hi!+there%2C+I'm+Urvit+Gehlot;MERN+Stack+Developer;Tech+Enthusiast;Flutter+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-I am a passionate **Full Stack Developer** and **Flutter App Developer** based in **India** 🇮🇳. I specialize in building high-performance web and mobile applications with a focus on clean code and exceptional user experience.
-
-- 🔭 I’m currently working on scalable e-commerce and news platforms.
-- 🌱 I’m currently learning advanced DevOps and Cloud Deployment.
-- 💬 Ask me about **Flutter, Node.js, and Backend Architecture**.
-- ⚡ Fun fact: I love building tools that automate repetitive tasks.
-
----
-
-### 🛠 Tech Stack
-
 <div align="center">
 
-| Category | Skills |
-| :--- | :--- |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) |
-| **Others** | ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=google&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white) |
+# URVIT GEHLOT
+### Full Stack Developer · Flutter Developer
+
+I build modern web and mobile applications with a focus on clean engineering, practical solutions, and thoughtful user experiences.
+
+[Portfolio](https://urvitgehlot.com/) · [LinkedIn](https://www.linkedin.com/in/urvitgehlot/) · [GitHub](https://github.com/urvitgehlot)
 
 </div>
 
----
+<br>
 
-### 💼 Experience & Projects
+## Introduction
+I'm Urvit Gehlot, a Full Stack Developer and Flutter Developer from India. I focus on building high-performance web and mobile applications. I enjoy working across frontend, backend, APIs, databases, and application architecture while continuously learning new technologies. 
 
-- 🛒 **E-commerce Platform**: Built a full-featured e-commerce system using Node.js and MySQL.
-- 📰 **News Website**: Developed a dynamic news platform with a custom PHP + MySQL admin panel.
-- 📱 **Flutter Apps**: Created multiple cross-platform mobile applications with smooth UI/UX.
-- 🚀 **Deployment Solutions**: Expertise in configuring hosting environments and automated deployment flows.
-- 🏆 **Hackathon**: Developed an NGO-Restaurant food waste reduction platform to address social issues.
+## Currently Building
+* **Full Stack applications**: Developing scalable platforms with Node.js, Express, and PHP.
+* **Flutter applications**: Creating cross-platform mobile solutions with Firebase integration.
+* **Backend Systems**: Designing robust APIs and database structures with MongoDB and MySQL.
 
----
+<br>
 
-### 📊 GitHub Statistics
+## Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>WashMyRide</h3>
+      <p>A comprehensive vehicle washing service platform. Features a customer app, crew app, and admin application with Google Maps integration, API workflows, and booking management.</p>
+      <p><strong>Flutter · Dart · Firebase · Google Maps API</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/urvitgehlot/Chat-App">Chat Application</a></h3>
+      <p>A real-time messaging application providing seamless communication. Utilizes Firebase for robust backend services, user authentication, and live database syncing.</p>
+      <p><strong>Flutter · Dart · Firebase</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/urvitgehlot/Solar-Panel-Solutions">Solar Panel Solutions</a></h3>
+      <p>A dynamic web platform for solar energy solutions. Includes custom PHP architecture, MySQL database integration, and weather API utilization for solar-related functionality.</p>
+      <p><strong>HTML · CSS · JavaScript · PHP · MySQL</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>TicTacToe</h3>
+      <p>A classic Tic-Tac-Toe game implementation showcasing fundamental logic, state management, and user interface design.</p>
+      <p><strong>Dart · Flutter</strong></p>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+## Tech Stack
+
+### Languages
+`JavaScript` · `PHP` · `Dart` · `C` · `C++` · `Python`
+
+### Frontend & Mobile
+`HTML5` · `CSS3` · `JavaScript` · `Flutter` 
+
+### Backend & Databases
+`Node.js` · `Express.js` · `PHP` · `MongoDB` · `MySQL` · `Firebase`
+
+### Tools
+`Git` · `GitHub` · `Docker` · `REST APIs` · `cPanel`
+
+<br>
+
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=urvitgehlot&show_icons=true&theme=tokyonight" alt="Urvit's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=urvitgehlot&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=urvitgehlot&theme=tokyonight" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=urvitgehlot&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff">
+    <img src="https://github-readme-stats.vercel.app/api?username=urvitgehlot&show_icons=true&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=24292f&icon_color=24292f" alt="Urvit Gehlot GitHub Statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=urvitgehlot&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urvitgehlot&layout=compact&hide_border=true&bg_color=ffffff&title_color=24292f&text_color=24292f" alt="Top Languages" />
+  </picture>
 </div>
 
----
+<br>
 
-### 📬 Contact Me
+## Development Philosophy
+**01 — Understand the problem** (Clarify requirements before writing code)<br>
+**02 — Design the solution** (Architect robust systems)<br>
+**03 — Build with maintainability in mind** (Write clean, modular code)<br>
+**04 — Test and iterate** (Improve based on feedback)<br>
+**05 — Ship and improve** (Deliver practical products)
 
-<div align="center">
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/urvitgehlot/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:urvitgehlotug@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://urvitgehlot.com)
+## Currently Learning
+* Advanced MERN development
+* Next.js
+* Docker
+* System design
+* DevOps & Cloud Deployment
 
-</div>
+<br>
 
+## Education & Journey
+**Master of Computer Application (MCA)** — PES University *(Expected 2026)*  
+**Bachelor of Computer Application (BCA)** — Lachoo Memorial College *(2024)*  
+**Full Stack + Mobile Development** — Ongoing
+
+<br>
+
+## Let's Connect
+Interested in collaborating, building something, or discussing technology?
+
+[Portfolio](https://urvitgehlot.com/) · [LinkedIn](https://www.linkedin.com/in/urvitgehlot/) · [GitHub](https://github.com/urvitgehlot) · [Email](mailto:urvitgehlotug@gmail.com)
 <div align="center">
   <sub>Built with ❤️ by Urvit Gehlot</sub>
 </div>
